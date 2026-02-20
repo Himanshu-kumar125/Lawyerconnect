@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f8fafc;
+}
+
+#root {
+  width: 100%;
+}
+
+button {
+  transition: 0.3s;
+}
+
+button:hover {
+  opacity: 0.85;
+  transform: scale(1.03);
+}
+
+
